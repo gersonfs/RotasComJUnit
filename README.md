@@ -1,5 +1,5 @@
 # Rotas
-Este projeto foi criado 
+Este código foi criado devido à seleção para estágio de programador(a) da empresa OneHost, ainda não possui um projeto. Logo, o programa encontra-se no arquivo do repositório, recomedo que, ao instalar a classe Entrada, mantê-la na mesma pasta do arquivo Rotas, assim o IDE os encontra facilmente.
 Por favor, entre nos arquivos "Rotas.java" e "Entrada.java" e realize o download destes, os executando no IDE desejável.
 # Pré-requisitos
 Pacote Java JDK 17 LTS e Java JRE versão 8:
